@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622660701 source:e:\study\ds_ex\withoutsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
